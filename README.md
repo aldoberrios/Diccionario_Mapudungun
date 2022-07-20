@@ -1,5 +1,5 @@
 ## Diccionario de Mapudungun
-Creación de un glosario o vocabulario básico que sea de uso libre, con audio e imágenes
+Creación de un glosario o vocabulario básico de Mapudungun que sea de uso libre, con audio e imágenes.
 
 #### Ubicación de los archivos
 

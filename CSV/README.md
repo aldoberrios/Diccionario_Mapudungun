@@ -6,15 +6,17 @@ El archivo CSV contiene una hoja de cálculo con 6 columnas, según el siguiente
 
 1. **id**          Número identificatorio creado a partir del reemplazo de los caracteres de la columna raíz.
 
-3. **mapudungun**  Lexema o entrada del diccionario en mapudungun escrita en el Alfabeto Mapuche Unificado.
+2. **mapudungun**  Lexema o entrada del diccionario en mapudungun escrita en el Alfabeto Mapuche Unificado.
 
-5. **raiz**        Lexema radical antes de la afijación de morfemas. Sirve para separar la raíz o tema verbal del sufijo de infinitivo -n y su alomorfo -ün.
+3. **raiz**        Lexema radical antes de la afijación de morfemas. Sirve para separar la raíz o tema verbal del sufijo de infinitivo -n y su alomorfo -ün.
 
-6. **gramatica**   Clase de palabra, por ejemplo: ‘verbo’, ‘sustantivo’, etc.
+4. **gramatica**   Clase de palabra, por ejemplo: ‘verbo’, ‘sustantivo’, etc.
 
-7. **castellano**  Definición simple en castellano del significado del lexema en mapudungun
+5. **castellano**  Definición simple en castellano del significado del lexema en mapudungun
 
-8. **ejemplo**     Ejemplo de uso del lexema en una oración del corpus Küme Dungu.
+6. **ejemplo**     Ejemplo de uso del lexema en una oración del corpus Küme Dungu.
+
+7. **source**     Fuente de las entradas: (**FFD 2022** se refiere a las primeras entradas, creadas por la organizacion Fiwfiw ñi Dungu. **Augusta 1903** refiere al diccionario que aparece en la obra Gramática Mapuche de Augusta.)
 
 
 

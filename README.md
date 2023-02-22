@@ -4,6 +4,22 @@ Creación de un glosario o vocabulario básico de Mapudungun que sea de uso libr
 ## Responsables
 La creación del glosario o vocabulario está a cargo del equipo de pu kimelfe de **Fiwfiw ñi Dungun**, organización dedicada a la promoción y enseñanza del mapudungun.
 
+### Integrantes del equipo de redacción del diccionario
+Aldo Berríos
+
+Camila Gutiérrez Huichaqueo
+
+Camila Yaupi
+
+Gabriel Huenteman Kurüman
+
+Marco
+
+Mariel Guíñez Nahuelñir
+
+Paulina Urrea
+
+
 ### Audios
 Los audios de las palabras han sido grabados y preparados por Ester Quero Álvarez.
 

@@ -5,8 +5,7 @@ Creación de un glosario o vocabulario básico de Mapudungun que sea de uso libr
 La creación del glosario o vocabulario está a cargo del equipo de pu kimelfe de **Fiwfiw ñi Dungun**, organización dedicada a la promoción y enseñanza del mapudungun.
 
 ### Audios
-Los audios de las palabras han sido preparados por Ester Quero.
-
+Los audios de las palabras han sido grabados y preparados por Ester Quero Álvarez.
 
 #### Ubicación de los archivos
 

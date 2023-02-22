@@ -7,6 +7,9 @@ La creación del glosario o vocabulario está a cargo del equipo de pu kimelfe d
 ### Audios
 Los audios de las palabras han sido grabados y preparados por Ester Quero Álvarez.
 
+### Imágenes
+Las imágenes fueron realizadas por Fiestoforo, dibujante del equipo Kimeltuwe, materiales de enseñanza del mapudungun, utilizando el programa Inkscape, de acceso libre.
+
 #### Ubicación de los archivos
 
 * En **csv** se encuentra el diccionario en formato csv.
